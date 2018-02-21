@@ -1,7 +1,7 @@
 import random
 
 class GuessGame(object):
-	"""Guessing Game 1"""
+	"""Guessing Game"""
 	
 	def __init__(self):
 		self.number = random.randint(0,10)
